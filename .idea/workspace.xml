@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27b5271b-73f1-4dd9-82ba-28a93e3a62c5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lesson1/HW1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/HW1.html" afterDir="false" />
+    <list default="true" id="27b5271b-73f1-4dd9-82ba-28a93e3a62c5" name="Changes" comment="HW1.js">
       <change beforePath="$PROJECT_DIR$/lesson1/HW1.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/HW1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +56,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700558899620</updated>
-      <workItem from="1700558900696" duration="10248000" />
+      <workItem from="1700558900696" duration="10648000" />
     </task>
+    <task id="LOCAL-00001" summary="HW1.js">
+      <option name="closed" value="true" />
+      <created>1700640952394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700640952394</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW1.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW1.js" />
   </component>
 </project>

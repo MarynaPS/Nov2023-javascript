@@ -9,7 +9,7 @@ console.log(n1);
 let n2='own';
 console.log(n2);
 
-let n3='com';
+let n3="com";
 console.log(n3);
 
 let n4='ua';
@@ -45,7 +45,6 @@ console.log(b2);
 let firstName='Maryna';
 let middleName='Sergeevna'
 let lastName='Popova';
-let person='';
 console.log(person=`${firstName} ${middleName} ${lastName}`);
 
 let a=100;
