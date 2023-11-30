@@ -115,6 +115,7 @@ arr2[arr2.length] = 200600;
 
 console.log(arr1);
 
+
 let color = prompt('який колір ти бачиш?');
 if (color === 'green') {
      console.log('go');
@@ -149,6 +150,7 @@ console.log('22222');
 //     default:
 //         console.log('call to service');
 // }
+
 
 
 let color1 = 'red';
