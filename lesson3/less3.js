@@ -127,8 +127,8 @@ let i = 0;
 while (i < users.length) {
     console.log(users[i]);
     i++;
-}
+};
 
-do {
-    console.log('asdjasgdh');
-} while (false)
+//do {
+//    console.log('asdjasgdh');
+//} while (false);
