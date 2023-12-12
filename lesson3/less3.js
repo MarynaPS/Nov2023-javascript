@@ -115,8 +115,7 @@ let users2 = [
 document.write('<ul>');
 for (const user of users2) {
      document.write(`<li>`);
-
-     for (const userKey in user) {
+    for (const userKey in user) {
          document.write(`${userKey} - ${user[userKey]} `);
      }
      document.write(`</li>`);
