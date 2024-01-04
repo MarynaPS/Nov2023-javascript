@@ -4,10 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27b5271b-73f1-4dd9-82ba-28a93e3a62c5" name="Changes" comment="HW5.js 12.12">
-      <change afterPath="$PROJECT_DIR$/lesson6/HW6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/HW6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/less6.html" afterDir="false" />
+    <list default="true" id="27b5271b-73f1-4dd9-82ba-28a93e3a62c5" name="Changes" comment="HW6.js 18.12">
+      <change afterPath="$PROJECT_DIR$/lesson10/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/favsPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/less10.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/less10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/consultation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7/less7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/HW8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/const8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/less8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/const9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/less9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_12_2023_09_55_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_12_2023_09_55__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,13 +28,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MarynaPS"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9b72d995-5898-493f-8dd7-2e94456b50c9" />
+        <option name="url" value="https://github.com/MarynaPS/Nov2023-javascript.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -65,7 +89,7 @@
       <updated>1700558899620</updated>
       <workItem from="1700558900696" duration="12680000" />
       <workItem from="1701004994885" duration="51091000" />
-      <workItem from="1701952799835" duration="71962000" />
+      <workItem from="1701952799835" duration="126243000" />
     </task>
     <task id="LOCAL-00001" summary="HW1.js">
       <option name="closed" value="true" />
@@ -163,7 +187,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702387155595</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="HW6.js 18.12">
+      <option name="closed" value="true" />
+      <created>1702905473603</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1702905473604</updated>
+    </task>
+    <task id="LOCAL-00014" summary="HW6.js 18.12">
+      <option name="closed" value="true" />
+      <created>1702905514238</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1702905514238</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +227,7 @@
     <MESSAGE value="HW1.js 7.12" />
     <MESSAGE value="HW4.js 12.12" />
     <MESSAGE value="HW5.js 12.12" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW5.js 12.12" />
+    <MESSAGE value="HW6.js 18.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW6.js 18.12" />
   </component>
 </project>

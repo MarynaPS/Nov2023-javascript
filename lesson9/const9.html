@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<style>
+    #wrapper{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: center;
+        border: 2px solid red;
+        /*height: 60vh;*/
+        width: 80vw;
+        margin: 0 auto;
+    }
+
+    .test{
+        background: azure;
+    }
+
+    .cars{
+        width: 200px;
+        height: 250px;
+        border: 3px solid #700dea;
+        display: flex;
+        justify-content: center;
+
+        flex-direction: column;
+        margin: 10px;
+        padding: 10px;
+    }
+</style>
+<body>
+<div id="wrapper"> </div>
+
+<script>
+    let cars = [
+        {make: "Toyota", model: "Camry", year: 2022, color: "Blue", price: 25000, image: 'https://img.freepik.com/free-photo/3d-car-with-vibrant-colors_23-2150796934.jpg?size=626&ext=jpg'},
+        {make: "Honda", model: "Civic", year: 2021, color: "Red", price: 22000, image: 'https://img.freepik.com/free-photo/3d-car-with-vibrant-colors_23-2150797034.jpg?size=626&ext=jpg'},
+        {make: "Ford", model: "Mustang", year: 2023, color: "Black", price: 40000,image: 'https://img.freepik.com/free-photo/sport-car-on-the-road-with-motion-blur-background_90220-1685.jpg?size=626&ext=jpg'},
+        {make: "Chevrolet", model: "Silverado", year: 2024, color: "Gray", price: 350000, image:'https://img.freepik.com/free-photo/3d-car-on-vibrant-city-at-night_23-2150796972.jpg?size=626&ext=jpg'},
+        {make: "Nissan", model: "Altima", year: 2021, color: "White", price: 23000},
+        {make: "BMW", model: "X5", year: 2022, color: "Silver", price: 60000},
+        {make: "Mercedes-Benz", model: "C-Class", year: 2023, color: "Black", price: 50000},
+        {make: "Audi", model: "A4", year: 2022, color: "Blue", price: 45000},
+        // {make: "Jeep", model: "Wrangler", year: 2022, color: "Green", price: 35000},
+        // {make: "Lexus", model: "RX", year: 2023, color: "Champagne", price: 55000}
+    ];
+
+    console.log(cars)
+
+    let wrapper= document.getElementById('wrapper');
+    wrapper.classList.add('test');
+    wrapper.style.border='4px solid black'
+    for (const car of cars) {
+        let div = document.createElement('div');
+        let img = document.createElement('img')
+        let p = document.createElement('p')
+        p.innerText = 'TEXT P'
+        div.classList.add('cars')
+        div.innerText = `${car.make} - ${car.year} - ${car.price} $`;
+        img.src = car.image
+        //wrapper.appendChild(div)
+        div.append(img,p)
+        wrapper.appendChild(div)
+    }
+    console.log(wrapper)
+
+    let newDiv = document.createElement('div');
+    document.body.appendChild(newDiv)
+    let clone = newDiv.cloneNode(true)
+
+
+    clone.innerText = 'CLONE'
+    document.body.appendChild(clone)
+    newDiv.innerText = 'NEW DIV'
+
+
+</script>
+
+</body>
+</html>
