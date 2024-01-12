@@ -4,20 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27b5271b-73f1-4dd9-82ba-28a93e3a62c5" name="Changes" comment="HW6.js 18.12">
-      <change afterPath="$PROJECT_DIR$/lesson10/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/favsPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/less10.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10/less10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/consultation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7/less7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/HW8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/const8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/less8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9/const9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9/less9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_12_2023_09_55_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_12_2023_09_55__Changes_.xml" beforeDir="false" />
+    <list default="true" id="27b5271b-73f1-4dd9-82ba-28a93e3a62c5" name="Changes" comment="HW8.js 04.01">
+      <change afterPath="$PROJECT_DIR$/lesson 12/demo1/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 12/demo1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 12/less12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 12/regexp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/collbacks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/descriptors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/generators.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13/recursion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/mini-project.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +87,7 @@
       <updated>1700558899620</updated>
       <workItem from="1700558900696" duration="12680000" />
       <workItem from="1701004994885" duration="51091000" />
-      <workItem from="1701952799835" duration="126243000" />
+      <workItem from="1701952799835" duration="139957000" />
     </task>
     <task id="LOCAL-00001" summary="HW1.js">
       <option name="closed" value="true" />
@@ -203,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702905514238</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="HW8.js 04.01">
+      <option name="closed" value="true" />
+      <created>1704378594154</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704378594154</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +234,7 @@
     <MESSAGE value="HW4.js 12.12" />
     <MESSAGE value="HW5.js 12.12" />
     <MESSAGE value="HW6.js 18.12" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW6.js 18.12" />
+    <MESSAGE value="HW8.js 04.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW8.js 04.01" />
   </component>
 </project>
